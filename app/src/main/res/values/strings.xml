@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prático</string>
+
+    <string name="first_name_hint">Primeiro nome</string>
+    <string name="last_name_hint">Sobrenome</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Senha</string>
+    <string name="cpf_hint">CPF</string>
+    <string name="phone_hint">Telefone</string>
+
+    <string name="login_button">Login</string>
+    <string name="go_for_sign_up_button">Cadastre-se</string>
+    <string name="sign_up_button">Cadastrar</string>
+    <string name="forgot_password_button">Esqueceu sua senha?</string>
+</resources>
